@@ -1,0 +1,19 @@
+{
+  "name": "1001-carros-playwright-qa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.46.1",
+    "@types/node": "^22.5.1"
+  },
+  "dependencies": {
+    "axios": "^1.7.5",
+    "playwright": "^1.46.1",
+    "xlsx": "^0.18.5"
+  }
+}
